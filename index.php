@@ -15,7 +15,7 @@
 	<title>Maceku | Beranda</title>
 </head>
 
-<body>
+<body style="overflow-x: hidden;">
 
 	<!-- navbar -->
 	<nav class="navbar navbar-expand-lg navbar-dark bg-danger sticky-top">
